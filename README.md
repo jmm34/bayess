@@ -10,8 +10,8 @@ The package bayess contains a collection of functions that allows the reenactmen
 
 To install the bayess package
 
-- you can use the function install_github from the package remotes:  
+- you can use the function **install_github** from the package remotes:  
 install_github("jmm34/bayess")  
 
-- you can download the file abcrf_1.9.tar.gz and use the command:
+- you can download the file **bayess_1.5.tar.gz** and use the command:  
 install.packages("bayess_1.5.tar.gz", repos = NULL, type = "source")
