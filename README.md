@@ -1,5 +1,7 @@
 # bayess version  
+
 A R library associated to the book  
+
 **Bayesian Essentials with R**  
 Jean-Michel Marin and Christian P. Robert  
 Springer-Verlag, New York, 2014  
