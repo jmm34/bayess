@@ -1,4 +1,4 @@
-# bayess version  
+# bayess version 1.5
 
 A R library associated to the book  
 
