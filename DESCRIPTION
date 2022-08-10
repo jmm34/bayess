@@ -1,11 +1,15 @@
 Package: bayess
 Title: Bayesian Essentials with R
 Version: 1.5
-Date: 2022-08-09
+Date: 2022-08-10
 Depends: stats, mnormt, gplots, combinat
 Author: Jean-Michel Marin [aut, cre],
         Christian P. Robert [aut]  
 Maintainer: Jean-Michel Marin <jean-michel.marin@umontpellier.fr>
-Description: This package contains a collection of functions that allows the reenactment of the R programs used in the book Bayesian Essentials with R without further programming. R code being available as well, they can be modified by the user to conduct one's own simulations.
-Marin J.-M. and Robert C. P. (2014) <doi:10.1007/978-1-4614-8687-9>.
+Description: Allows the reenactment of the R programs used in 
+        the book Bayesian Essentials with R without further programming. 
+        R code being available as well, they can be modified by the user
+        to conduct one's own simulations. 
+	    Marin J.-M. and Robert C. P. (2014) <doi:10.1007/978-1-4614-8687-9>.
+URL: https://www.r-project.org, https://github.com/jmm34/bayess
 License: GPL-2
