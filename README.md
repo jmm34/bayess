@@ -15,3 +15,5 @@ install_github("jmm34/bayess")
 
 - you can download the file **bayess_1.5.tar.gz** and use the command:  
 install.packages("bayess_1.5.tar.gz", repos = NULL, type = "source")
+
+- the package is also available on the CRAN
