@@ -1,4 +1,4 @@
-# bayess version 1.5
+# bayess version 1.6
 
 A R library associated to the book  
 
@@ -13,7 +13,7 @@ To install the bayess package
 - you can use the function **install_github** from the package remotes:  
 install_github("jmm34/bayess")  
 
-- you can download the file **bayess_1.5.tar.gz** and use the command:  
-install.packages("bayess_1.5.tar.gz", repos = NULL, type = "source")
+- you can download the file **bayess_1.6.tar.gz** and use the command:  
+install.packages("bayess_1.6.tar.gz", repos = NULL, type = "source")
 
 - the package is also available on the CRAN
