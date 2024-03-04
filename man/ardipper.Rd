@@ -1,9 +1,6 @@
 \name{ardipper}
 \alias{ardipper}
-%- Also NEED an '\alias' for EACH other topic documented here.
-\title{
-Accept-reject algorithm for the open population capture-recapture model%%  ~~function to do ... ~~
-}
+\title{Accept-reject algorithm for the open population capture-recapture model}
 \description{
 This function is associated with Chapter 5 on capture-recapture model.
 It simulates samples from the non-standard 
@@ -15,27 +12,13 @@ between the second and third experiments.
 \usage{
 ardipper(nsimu, n1, c2, c3, r2, q1)
 }
-%- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{nsimu}{
-number of simulations%%     ~~Describe \code{nsimu} here~~
-}
-  \item{n1}{
-first capture sample size%%     ~~Describe \code{n1} here~~
-}
-  \item{c2}{
-number of individuals recaptured during the second experiment%%     ~~Describe \code{c2} here~~
-}
-  \item{c3}{
-number of individuals recaptured during the third experiment%%     ~~Describe \code{c3} here~~
-}
-  \item{r2}{
-number of individuals vanishing
-between the second and third experiments%%     ~~Describe \code{r2} here~~
-}
-  \item{q1}{
-probability of disappearing from the population%%     ~~Describe \code{q1} here~~
-}
+  \item{nsimu}{number of simulations}
+  \item{n1}{first capture sample size}
+  \item{c2}{number of individuals recaptured during the second experiment}
+  \item{c3}{number of individuals recaptured during the third experiment}
+  \item{r2}{number of individuals vanishing between the second and third experiments}
+  \item{q1}{probability of disappearing from the population}
 }
 \value{
 A sample of \code{nsimu} integers

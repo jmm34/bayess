@@ -1,8 +1,7 @@
 \name{hmmeantemp}
 \alias{hmmeantemp}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Metropolis-Hastings with tempering steps for the mean mixture posterior model%%  ~~function to do ... ~~
+Metropolis-Hastings with tempering steps for the mean mixture posterior model
 }
 \description{
 This function provides another toy illustration of the capabilities
@@ -14,21 +13,11 @@ the target density surface, despite the existence of two well-separated modes.
 \usage{
 hmmeantemp(dat, niter, var = 1, alpha = 1)
 }
-%- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{dat}{
-%set to be modelled as a mixture%%     ~~Describe \code{dat} here~~
-}
-  \item{niter}{
-number of iterations%%     ~~Describe \code{niter} here~~
-}
-  \item{var}{
-variance of the random walk%%     ~~Describe \code{var} here~~
-%     ~~Describe \code{var} here~~
-}
-  \item{alpha}{
-temperature, expressed as power of the likelihood%%     ~~Describe \code{alpha} here~~
-}
+  \item{dat}{set to be modelled as a mixture}
+  \item{niter}{number of iterations}
+  \item{var}{variance of the random walk}
+  \item{alpha}{temperature, expressed as power of the likelihood}
 }
 \details{
 When \eqn{\alpha=1}{alpha=1} the function operates (and can be used) as a regular Metropolis-Hastings algorithm.

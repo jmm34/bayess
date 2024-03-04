@@ -1,7 +1,7 @@
 Package: bayess
 Title: Bayesian Essentials with R
-Version: 1.5
-Date: 2022-08-10
+Version: 1.6
+Date: 2024-03-04
 Depends: stats, mnormt, gplots, combinat
 Author: Jean-Michel Marin [aut, cre],
         Christian P. Robert [aut]  

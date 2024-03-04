@@ -1,9 +1,7 @@
 \name{eurodip}
 \alias{eurodip}
 \docType{data}
-\title{
-European Dipper dataset%%   ~~ data name/kind ... ~~
-}
+\title{European Dipper dataset}
 \description{
 This capture-recapture dataset on the \emph{European dipper} bird
 covers 7 years (1981-1987 inclusive) of observations of captures
